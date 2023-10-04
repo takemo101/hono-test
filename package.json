@@ -5,7 +5,8 @@
   },
   "dependencies": {
     "@hono/zod-validator": "^0.1.9",
-    "hono": "^3.7.2"
+    "hono": "^3.7.2",
+    "workers-qb": "^1.1.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230914.0",

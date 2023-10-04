@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS todo;
+CREATE TABLE todo (
+  id TEXT PRIMARY KEY,
+  completed NUMERIC NOT NULL,
+  title TEXT NOT NULL
+);
